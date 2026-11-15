@@ -1,0 +1,12 @@
+Meeting: Website bug review
+Date: 14 November 2026
+
+Dev: The checkout page sometimes freezes after the user clicks Pay.
+Sara: I reproduced it on Chrome. I will investigate the browser console errors today.
+Dev: Please create a bug ticket with the steps to reproduce.
+Sara: I will create the ticket before 4 PM.
+Imran: I suspect the payment callback is slow, but we have not confirmed the cause.
+Dev: Let's not call that the root cause yet. We need logs first.
+Imran: I will collect the server logs and share them tomorrow morning.
+Sara: Should we delay the release?
+Dev: No decision yet. We will decide after reviewing the logs tomorrow.

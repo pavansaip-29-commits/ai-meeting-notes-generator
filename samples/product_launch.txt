@@ -1,0 +1,13 @@
+Meeting: Product launch planning
+Date: 12 November 2026
+
+Ananya: We need to finalize the launch plan for the new student portal. The target launch date is 30 November.
+Rahul: The login and dashboard are ready. The mobile layout still needs testing.
+Meera: I will test the mobile layout and share the results by 18 November.
+Ananya: Good. Rahul, please prepare the release checklist by 20 November.
+Rahul: Yes, I will prepare and share it by the 20th.
+Karthik: We should also prepare a short user guide. I can draft it, but I need the final screenshots first.
+Meera: I can send the screenshots to Karthik by 19 November.
+Ananya: Agreed. We will review the checklist and user guide on 21 November. The launch date remains 30 November, provided testing is successful.
+Karthik: The support team has not confirmed who will handle launch-day questions.
+Ananya: That is still open. I will ask the support lead and update everyone.

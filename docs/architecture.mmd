@@ -1,0 +1,13 @@
+flowchart TD
+    A[User pastes or uploads transcript] --> B[Streamlit UI]
+    B --> C[Preprocessing: normalize whitespace and validate length]
+    C --> D[Ollama local HTTP API]
+    D --> E[Gemma 3 4B]
+    E --> F[Structured JSON response]
+    F --> G[Normalize and validate fields]
+    G --> H[Meeting summary and key points]
+    G --> I[Decisions and open questions]
+    G --> J[Action items: task, owner, deadline, evidence]
+    H --> K[Streamlit results and downloads]
+    I --> K
+    J --> K
